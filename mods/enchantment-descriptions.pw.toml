@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-1.12.2-1.1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/XtD5InVd/EnchantmentDescriptions-1.12.2-1.1.20.jar"
+hash-format = "sha1"
+hash = "d82e9d326b9d40904edb189077fabe0f5f47557a"
+
+[update]
+[update.modrinth]
+mod-id = "UVtY3ZAC"
+version = "XtD5InVd"

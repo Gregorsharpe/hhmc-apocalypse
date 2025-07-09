@@ -1,0 +1,13 @@
+name = "Faithful 64x"
+filename = "Faithful 64x - Release 10.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r4GILswZ/versions/5T6GekBK/Faithful%2064x%20-%20Release%2010.zip"
+hash-format = "sha1"
+hash = "00413cf363e708c93a11f87dd425f0a164f3c1fb"
+
+[update]
+[update.modrinth]
+mod-id = "r4GILswZ"
+version = "5T6GekBK"

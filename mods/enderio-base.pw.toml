@@ -1,0 +1,13 @@
+name = "Ender IO - Base"
+filename = "EnderIO-base-1.12.2-5.3.72.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v9LnS4Gs/versions/ITgZwjyB/EnderIO-base-1.12.2-5.3.72.jar"
+hash-format = "sha1"
+hash = "a312ae73fe1e33bddf6cb225299e3a90a5e2a34e"
+
+[update]
+[update.modrinth]
+mod-id = "v9LnS4Gs"
+version = "ITgZwjyB"

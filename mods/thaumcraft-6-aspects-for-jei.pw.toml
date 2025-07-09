@@ -1,0 +1,13 @@
+name = "Thaumcraft 6 Aspects for JEI"
+filename = "tc6aspects4jei-0.0.2a.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uErhp5S0/versions/dtePXU5J/tc6aspects4jei-0.0.2a.jar"
+hash-format = "sha1"
+hash = "0b72ee618362916608bfb756ec863380341623b1"
+
+[update]
+[update.modrinth]
+mod-id = "uErhp5S0"
+version = "dtePXU5J"

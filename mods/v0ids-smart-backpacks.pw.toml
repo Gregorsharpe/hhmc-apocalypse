@@ -1,0 +1,13 @@
+name = "V0id's Smart Backpacks"
+filename = "V0id's Smart Backpacks-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2b4fa9e036facca844fa207f1c0a28dbe439de4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2618300
+project-id = 302555

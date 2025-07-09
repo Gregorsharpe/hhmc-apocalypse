@@ -1,0 +1,13 @@
+name = "Open Modular Passive Defence"
+filename = "ompd-1.12.2-3.1.1-76.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iKkuSxwb/versions/6pcgkvY0/ompd-1.12.2-3.1.1-76.jar"
+hash-format = "sha1"
+hash = "14c99411e5d85e780774ad3918f2c235d327880e"
+
+[update]
+[update.modrinth]
+mod-id = "iKkuSxwb"
+version = "6pcgkvY0"

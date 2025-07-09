@@ -1,0 +1,13 @@
+name = "EnderIO Fluxified"
+filename = "enderiofluxified-1.12.2-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/owSIVxRg/versions/1.0.3/enderiofluxified-1.12.2-1.0.3.jar"
+hash-format = "sha1"
+hash = "98e23540f85d376229430c12e6c9e9dca862a594"
+
+[update]
+[update.modrinth]
+mod-id = "owSIVxRg"
+version = "sGD15rit"

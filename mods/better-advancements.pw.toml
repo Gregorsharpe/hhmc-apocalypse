@@ -1,0 +1,13 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-1.12.2-0.1.0.77.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/TanCG0k3/BetterAdvancements-1.12.2-0.1.0.77.jar"
+hash-format = "sha1"
+hash = "13948f45e69059c3714266a1549bf643fee6ebc3"
+
+[update]
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "TanCG0k3"

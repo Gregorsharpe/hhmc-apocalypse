@@ -1,0 +1,13 @@
+name = "Ender IO - Machines"
+filename = "EnderIO-machines-1.12.2-5.3.72.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f0dt23Vy/versions/uvRyRrqz/EnderIO-machines-1.12.2-5.3.72.jar"
+hash-format = "sha1"
+hash = "86830229fff3b6b5e2772b187800869978708e64"
+
+[update]
+[update.modrinth]
+mod-id = "f0dt23Vy"
+version = "uvRyRrqz"

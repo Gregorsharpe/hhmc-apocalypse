@@ -1,0 +1,13 @@
+name = "Open Modular Turrets"
+filename = "openmodularturrets-1.12.2-3.1.14-382.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gQivTAD/versions/Q6nifrBJ/openmodularturrets-1.12.2-3.1.14-382.jar"
+hash-format = "sha1"
+hash = "0afda8104fb4198fcaae09ef3976b6536ff7dc6d"
+
+[update]
+[update.modrinth]
+mod-id = "9gQivTAD"
+version = "Q6nifrBJ"

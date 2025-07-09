@@ -1,0 +1,13 @@
+name = "Snad"
+filename = "Snad-12.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z2LdIAgk/versions/11mXcpJc/Snad-12.1.0.jar"
+hash-format = "sha1"
+hash = "c978dbfca262e0b2f5cc0132dd76a5e2d2901304"
+
+[update]
+[update.modrinth]
+mod-id = "z2LdIAgk"
+version = "11mXcpJc"
