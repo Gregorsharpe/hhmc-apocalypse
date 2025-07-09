@@ -146,6 +146,11 @@ hash = "5ee1167714d6d6fa3bdf92dab2c17fd3b0edff8827e7bad181f5f2e2f8a4f766"
 metafile = true
 
 [[files]]
+file = "mods/bigger-packets-please.pw.toml"
+hash = "91e55f53e659f5371a27adf9614c1166f0f75a1ca658c6dc69e4cdffdd20f724"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "a9d9db0f7fb2e95f71bb656771c59c2d633a4acd11068f2aebbf982e267fb044"
 metafile = true
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "4898ca84a5742f1e99ba9774c64e739323c21dad5e750961613000986317b4fe"
+metafile = true
+
+[[files]]
+file = "mods/commons0815.pw.toml"
+hash = "aba619ad14a84abdcb9993a7aca90ee7d052f45b2f2825e89e3da0b90c001d7e"
 metafile = true
 
 [[files]]
@@ -416,6 +426,11 @@ hash = "9c2adde7a611ae77db44754f62ebbafb81acb659e66962a7518286d872f5d633"
 metafile = true
 
 [[files]]
+file = "mods/openglasses2.pw.toml"
+hash = "be80a6f0e3109bd4a647e05f1953e42ba40ecb537e709416a88d187e1bb8f54d"
+metafile = true
+
+[[files]]
 file = "mods/openmodularpassivedefense.pw.toml"
 hash = "3161252f301496fa33ecc0819701a38ae7997028062698c82738e1a72b84fd26"
 metafile = true
@@ -423,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/openmodularturrets.pw.toml"
 hash = "287f38ba73d9429ac938ee8ec1af4bb488395c8a7f860ad23c174b0a044572ae"
+metafile = true
+
+[[files]]
+file = "mods/opensecurity.pw.toml"
+hash = "9d826dc36c6715349392d6c975da22b6b1cbd82493cbb00a0926b3e67077687f"
 metafile = true
 
 [[files]]
