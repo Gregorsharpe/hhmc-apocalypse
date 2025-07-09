@@ -46,6 +46,16 @@ hash = "b21ce4112e1f9581a2545c85d0d96fef04751906d8fa98dbb04035d777ba4516"
 metafile = true
 
 [[files]]
+file = "mods/Commons0815-1.12.2-1.4.0.pw.toml"
+hash = "ffcabdb0de7b0e365c145878a846bedb0aac066852c35c92ade6d462a2deb710"
+metafile = true
+
+[[files]]
+file = "mods/OpenGlasses-MC1.12.2-2.2-53.pw.toml"
+hash = "44e9e00762f8a63b3dfd931add0e52ab4a0e5a10c31761e63403a168721370d7"
+metafile = true
+
+[[files]]
 file = "mods/OptiFine_1.12.2_HD_U_G5.pw.toml"
 hash = "60002f3aa7d70055381dd7f9d782206914c3d4f52a09874a8bb34bc2dcaf6fdb"
 metafile = true

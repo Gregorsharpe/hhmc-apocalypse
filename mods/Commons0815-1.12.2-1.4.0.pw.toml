@@ -1,0 +1,11 @@
+name = "Commons0815-1.12.2-1.4.0"
+filename = "Commons0815-1.12.2-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/hhmc-apocalypse/refs/heads/main/annoying-mods/Commons0815-1.12.2-1.4.0.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b8302780b2d234fb686c48b149ea8705291dca2a5f4b252a1e1e1ae3759bef5d"
