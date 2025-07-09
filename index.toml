@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "2af8f44ae6fb4aa2439e77f50cadc554415bf2c26da1bbd79d4db840759783a4"
+hash = "95bca6c58cd9a3667f5eb1852425752ac0757306dc05641e9391adb983c9386a"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
