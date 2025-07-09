@@ -1,40 +1,44 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENCE"
+hash = "5537d4d10b76b81b6e8dfd8b644480a4b1efa332fbb0cdb61126c5be781ef7b4"
+
+[[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "3f565fd234df7034e491e4dec8ac5c6a58f283419cd655921555be5124c7eb99"
+hash = "8d1c839a07776b29cf2499ff7b528275d7443738c72093f45154945a8d7f789b"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "bd7df2c81e8f117d742223a57b0686a2a857447d536d1aaf57b2e715a4ed2596"
+hash = "09f9ef0bf96a496ad34e4c59a3b5b3e041714df4956de98ae8a36e2b8f22a22e"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "4a0414139a7b938aa1a93aa361d7b29c4b4da6aca2c3136d79e888b1b1ada886"
+hash = "f6434b095a2bbf10b7daef243c8fd44d35d1e2c238a666021f4921d2b6f9f011"
 
 [[files]]
 file = "config/jei/searchColors.cfg"
-hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
+hash = "aa2d125660ad731dff9aec92c745a6947e204dba56ecc95d6907f1883d26ec33"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "0d0e3e8f9567db79829647ee482d3323b3d211a4536375015026def02ed72ac7"
+hash = "9d81db498acda69d2c30cfccad0233b72c389a1c12cc6000312085c44393d3fe"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
-hash = "c6e8e3844dea96a21d415b41b2305169f465c0fa82a4fdcba340fefdc85b542a"
+hash = "082fc016ff6fe03214fcd4e94f01125600f28d7838c60643b28d494080f36016"
 
 [[files]]
 file = "config/srparasites/SRParasitesMobs.cfg"
-hash = "480096662b815d9837ea776cd76a625246045bebcbf8942aa3a395f52f6c4932"
+hash = "6ce05a0d7907888ddc1605bc7fdbf8ec2028b3624d3c73436a760c3d87dbf74c"
 
 [[files]]
 file = "config/srparasites/SRParasitesSystems.cfg"
-hash = "da3cbfec23b3166150fccb7a6dc730dfe011379f21e7f1f9e6e001b74195106c"
+hash = "9d19b6fc1a05106485f88277e0eed03450062506c18795fe96f62c3adfe6ae91"
 
 [[files]]
 file = "config/srparasites/SRParasitesWorld.cfg"
-hash = "49b8371c25461ea948a0c6588e75e7859b8acc1ac01a6023408102d084648a0e"
+hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
