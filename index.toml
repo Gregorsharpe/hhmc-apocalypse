@@ -421,6 +421,11 @@ hash = "287f38ba73d9429ac938ee8ec1af4bb488395c8a7f860ad23c174b0a044572ae"
 metafile = true
 
 [[files]]
+file = "mods/orelib.pw.toml"
+hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
+metafile = true
+
+[[files]]
 file = "mods/p455w0rds-library.pw.toml"
 hash = "f7e6f638078c6717ea9e2e76bac01d7680fb48634bf04bf7f1e9d430cd27e626"
 metafile = true
