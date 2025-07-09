@@ -291,6 +291,11 @@ hash = "02ff2c5bcdfe0ed7d7e7c3f88da0a35f855491901bedb9b0ad6f897df4ad0fba"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-forge.pw.toml"
+hash = "a60fd9d05d44ba3cd00a174dfb886a1088a39952d35181675c60cae584784880"
+metafile = true
+
+[[files]]
 file = "mods/future-mc.pw.toml"
 hash = "2bdac6763800cca1c307bb0a3cc590a8d933f5a227d20bfb75cccea31cd3293f"
 metafile = true
