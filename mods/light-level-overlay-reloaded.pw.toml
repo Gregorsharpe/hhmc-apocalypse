@@ -1,6 +1,6 @@
 name = "Light Level Overlay Reloaded"
 filename = "LLOverlayReloaded-1.1.6-mc1.12.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

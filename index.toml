@@ -46,8 +46,9 @@ hash = "b21ce4112e1f9581a2545c85d0d96fef04751906d8fa98dbb04035d777ba4516"
 metafile = true
 
 [[files]]
-file = "mods/OptiFine_1.12.2_HD_U_G5.jar"
-hash = "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"
+file = "mods/OptiFine_1.12.2_HD_U_G5.pw.toml"
+hash = "60002f3aa7d70055381dd7f9d782206914c3d4f52a09874a8bb34bc2dcaf6fdb"
+metafile = true
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -141,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterfps.pw.toml"
-hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
+hash = "5ee1167714d6d6fa3bdf92dab2c17fd3b0edff8827e7bad181f5f2e2f8a4f766"
 metafile = true
 
 [[files]]
@@ -196,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "c292e0b7025aef514405d08d52ba07dbe0754698b5475893fc44011cfc12ea05"
+hash = "c2c57426def4640d2e71121b80484863e1e4efb68227c841d4db49a61e489bf1"
 metafile = true
 
 [[files]]
@@ -256,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler-legacy.pw.toml"
-hash = "8023c44d5deffa54c951df00630ff626c8cb00747f29448d956c10abc8c70731"
+hash = "5c1382e8653582fab1c93b81691a1bd059197e8b2d1afb65014a86a1ad09710b"
 metafile = true
 
 [[files]]
@@ -336,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-level-overlay-reloaded.pw.toml"
-hash = "8b34aa25a35d358b5a59e6e230baa06bb06836005ddfa4d3faadfe5d2b37399b"
+hash = "bd5d3fadcf6d3d98f89d5d1e6344c7a16416fd9ec0d4d6dea02f7d7d1e93d294"
 metafile = true
 
 [[files]]
@@ -376,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+hash = "5eaab34dbc85c388430ed180eaf33ee94ea1699aac60d785a2fb79a832f74750"
 metafile = true
 
 [[files]]

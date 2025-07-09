@@ -1,0 +1,11 @@
+name = "OptiFine_1.12.2_HD_U_G5"
+filename = "OptiFine_1.12.2_HD_U_G5.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/hhmc-apocalypse/refs/heads/main/annoying-mods/OptiFine_1.12.2_HD_U_G5.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"
