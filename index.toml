@@ -186,11 +186,6 @@ hash = "4898ca84a5742f1e99ba9774c64e739323c21dad5e750961613000986317b4fe"
 metafile = true
 
 [[files]]
-file = "mods/commons0815.pw.toml"
-hash = "aba619ad14a84abdcb9993a7aca90ee7d052f45b2f2825e89e3da0b90c001d7e"
-metafile = true
-
-[[files]]
 file = "mods/constructs-armory.pw.toml"
 hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
 metafile = true
@@ -433,11 +428,6 @@ metafile = true
 [[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "9c2adde7a611ae77db44754f62ebbafb81acb659e66962a7518286d872f5d633"
-metafile = true
-
-[[files]]
-file = "mods/openglasses2.pw.toml"
-hash = "be80a6f0e3109bd4a647e05f1953e42ba40ecb537e709416a88d187e1bb8f54d"
 metafile = true
 
 [[files]]
