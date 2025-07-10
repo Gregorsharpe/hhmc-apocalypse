@@ -176,6 +176,11 @@ hash = "ba3c7e8e07954fe95f568d934a014a752ef05b0230cbf285c2c104b03b4044ca"
 metafile = true
 
 [[files]]
+file = "mods/chickens.pw.toml"
+hash = "1fac80eb79f56430822266aebff796c415247a8ff2d499d5860494286bfec9aa"
+metafile = true
+
+[[files]]
 file = "mods/chunkpregenerator.pw.toml"
 hash = "575824c005d5e0200e199224bd107f23728e04ea03ff2f5be05f642a535cb410"
 metafile = true
@@ -413,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "93fd6020610fa6fd2182b08e93389a5a50bddd44b741c66927d028dbac93ae44"
+metafile = true
+
+[[files]]
+file = "mods/oc-sensors.pw.toml"
+hash = "64e969417a3b244d33a076087731e25f6d918633e6b0c60de32ca3f24d80bd6f"
 metafile = true
 
 [[files]]
