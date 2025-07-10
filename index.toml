@@ -276,6 +276,11 @@ hash = "b5e00cb8cf4446d1213033b769343b60be1cb328c0dfbe0282f34c12a3f2ed96"
 metafile = true
 
 [[files]]
+file = "mods/environmental-tech.pw.toml"
+hash = "f79cb1428443c38e6f1d10f6b9ffb91265164e2f3be6169f42b11e99ccb71342"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler-legacy.pw.toml"
 hash = "5c1382e8653582fab1c93b81691a1bd059197e8b2d1afb65014a86a1ad09710b"
 metafile = true
@@ -608,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/v0ids-smart-backpacks.pw.toml"
 hash = "8345cbda1e526a9571ca9404ab85e0e8962b618227fcc86effba088936468f9d"
+metafile = true
+
+[[files]]
+file = "mods/valkyrielib.pw.toml"
+hash = "96ad1f64d7a17ef970c3be83443c65fb8ddb90f908fccaa4a969ac67614ec48f"
 metafile = true
 
 [[files]]
