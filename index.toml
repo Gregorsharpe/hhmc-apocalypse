@@ -311,6 +311,11 @@ hash = "a60fd9d05d44ba3cd00a174dfb886a1088a39952d35181675c60cae584784880"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "98ce0745c39570074e48d503da5fd3f97952ac3f7fcccc363365f08295c41e6e"
+metafile = true
+
+[[files]]
 file = "mods/future-mc.pw.toml"
 hash = "2bdac6763800cca1c307bb0a3cc590a8d933f5a227d20bfb75cccea31cd3293f"
 metafile = true
@@ -593,11 +598,6 @@ metafile = true
 [[files]]
 file = "mods/v0ids-smart-backpacks.pw.toml"
 hash = "8345cbda1e526a9571ca9404ab85e0e8962b618227fcc86effba088936468f9d"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "142cd8aa6f26b116fb5d07bd0c26463e90d3591c0fa1d30f35d4b1a8eae2142d"
 metafile = true
 
 [[files]]
