@@ -601,6 +601,11 @@ hash = "c3930febcc29d9e80c9c222755465f03c2dfb71c9613356a550b693533f4a9c7"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-tool-leveling.pw.toml"
+hash = "7ae6b403a7e1f09b7b707d1c7153a5f0e85308e34ffc4a58a4de906ef880a061"
+metafile = true
+
+[[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "1a483c0d403f54b329e06061fa7b4e7cbc5b33d1506bf9c25a5681851e60d9e7"
 metafile = true
