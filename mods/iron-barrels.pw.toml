@@ -1,0 +1,13 @@
+name = "Iron Barrels"
+filename = "IronBarrels1.12.2-V1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7qvEFHn9/versions/YQrcn8jc/IronBarrels1.12.2-V1.3.jar"
+hash-format = "sha1"
+hash = "02aaa5c537c1b9a4e072fc03206cc0689cae28d1"
+
+[update]
+[update.modrinth]
+mod-id = "7qvEFHn9"
+version = "YQrcn8jc"

@@ -386,6 +386,11 @@ hash = "06788fe0f37434b829757e4df2add84180496c3de12565bcc4098d05c2d68bba"
 metafile = true
 
 [[files]]
+file = "mods/iron-barrels.pw.toml"
+hash = "36df9721a515a9aca951a181d541a56fe6a4c5c9c32b469176bf8537be8781d1"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
 metafile = true
