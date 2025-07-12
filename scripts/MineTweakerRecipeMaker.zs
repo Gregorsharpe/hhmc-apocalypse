@@ -27,7 +27,7 @@
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<roost:chicken>, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <roost:chicken>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <minecraft:log>]]);
-recipes.addShaped(<roost:chicken>, [[<ore:sand>, <ore:sand>, <minecraft:sand>], [<ore:sand>, <roost:chicken>, <ore:sand>], [<ore:sand>, <ore:sand>, <ore:sand>]]);
-recipes.addShaped(<roost:chicken>, [[<ore:flint>, <ore:flint>, <ore:flint>], [<ore:flint>, <roost:chicken>, <ore:flint>], [<minecraft:flint>, <minecraft:flint>, <minecraft:flint>]]);
+recipes.addShaped(<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:logchicken"}}), [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <roost:chicken>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <minecraft:log>]]);
+recipes.addShaped(<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:sandchicken"}}), [[<ore:sand>, <ore:sand>, <minecraft:sand>], [<ore:sand>, <roost:chicken>, <ore:sand>], [<ore:sand>, <ore:sand>, <ore:sand>]]);
+recipes.addShaped(<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:flintchicken"}}), [[<ore:flint>, <ore:flint>, <ore:flint>], [<ore:flint>, <roost:chicken>, <ore:flint>], [<minecraft:flint>, <minecraft:flint>, <minecraft:flint>]]);
 

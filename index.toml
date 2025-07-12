@@ -191,6 +191,11 @@ hash = "4f0810c42620d902de37b96e5e5324d941c264221cbbd4f9ff5a5dbfec8a4e51"
 metafile = true
 
 [[files]]
+file = "mods/chameleon.pw.toml"
+hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
+metafile = true
+
+[[files]]
 file = "mods/chickens.pw.toml"
 hash = "1fac80eb79f56430822266aebff796c415247a8ff2d499d5860494286bfec9aa"
 metafile = true
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "06788fe0f37434b829757e4df2add84180496c3de12565bcc4098d05c2d68bba"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
 metafile = true
 
 [[files]]
@@ -583,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/sound-filters.pw.toml"
 hash = "0cf8f002a5c13f8e06aaec8fe631e9469c6d32e701d3dfa3aceb7fd1ce27fe2f"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "1976cfb3222e1f141aa56af5824be673771a9db93b49c7e48fa2cca3f58aef02"
 metafile = true
 
 [[files]]
