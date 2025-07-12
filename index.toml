@@ -116,6 +116,11 @@ hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
 metafile = true
 
 [[files]]
+file = "mods/aqua-acrobatics.pw.toml"
+hash = "a4cd331969ff23c1c7fe42c126c41541f407c9f5aa71613cfbe2bea6a269f80f"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "21840b880d5275475906f16edc99aea784d214a1ab2584b8b71a5c3b02838f28"
 metafile = true
@@ -161,6 +166,11 @@ hash = "91e55f53e659f5371a27adf9614c1166f0f75a1ca658c6dc69e4cdffdd20f724"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "a9d9db0f7fb2e95f71bb656771c59c2d633a4acd11068f2aebbf982e267fb044"
 metafile = true
@@ -173,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "ba3c7e8e07954fe95f568d934a014a752ef05b0230cbf285c2c104b03b4044ca"
+metafile = true
+
+[[files]]
+file = "mods/caves-and-cliffs.pw.toml"
+hash = "4f0810c42620d902de37b96e5e5324d941c264221cbbd4f9ff5a5dbfec8a4e51"
 metafile = true
 
 [[files]]
@@ -206,6 +221,11 @@ hash = "c44f9dbdbe00cabe15be71c5fae2e170b1eb518310b575fa6356a4591d6dacf5"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9f63b0e2e436f6aa75764fffff1e8cb233062240ad5b999a51a936da927e578b"
 metafile = true
@@ -213,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "468ceb2d2976dd9464670ebb5938ec96c345301e2b9df7cb052c501c61ae2e35"
+metafile = true
+
+[[files]]
+file = "mods/crossbows-backport.pw.toml"
+hash = "41751576058ce6013a5690d7ef331bed332b97ad3444f6ce0aee41da9451cd1c"
 metafile = true
 
 [[files]]
@@ -426,6 +451,11 @@ hash = "93fd6020610fa6fd2182b08e93389a5a50bddd44b741c66927d028dbac93ae44"
 metafile = true
 
 [[files]]
+file = "mods/nether-api.pw.toml"
+hash = "a6b0e0ef2bce90dae4b2823a7e4dbce36f537cb7297f07ce2053a0441d06026f"
+metafile = true
+
+[[files]]
 file = "mods/oc-sensors.pw.toml"
 hash = "64e969417a3b244d33a076087731e25f6d918633e6b0c60de32ca3f24d80bd6f"
 metafile = true
@@ -511,8 +541,18 @@ hash = "61e97e8f79b9a9cb28e118275ece40ac1c14048aba7b153a2b99f14091208613"
 metafile = true
 
 [[files]]
+file = "mods/roost.pw.toml"
+hash = "705459b0f775f7e840b5910576ff959c3b3991b5a20de8913160ee1bc021c9ec"
+metafile = true
+
+[[files]]
 file = "mods/scapeandrunparasites.pw.toml"
 hash = "d29a22f1131661f02773c2bf2979e3a4176c4abfeed04564802182814c949481"
+metafile = true
+
+[[files]]
+file = "mods/seared-ladder-backport.pw.toml"
+hash = "f434238a4aa7c39e323c7ccfbfa83be4783faa02eba3dc39a76764de7c979747"
 metafile = true
 
 [[files]]
@@ -611,8 +651,18 @@ hash = "1a483c0d403f54b329e06061fa7b4e7cbc5b33d1506bf9c25a5681851e60d9e7"
 metafile = true
 
 [[files]]
+file = "mods/trample-stopper.pw.toml"
+hash = "c493a92641b65e676e331abe2166d1df87acaaa78b72211b3995866f8c2d5fa7"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "ff02f5a17f2da6689c52d21cccddc577e4329a35bd1f17bb2b8cb7989fc1165a"
+metafile = true
+
+[[files]]
+file = "mods/unseens-nether-backport.pw.toml"
+hash = "b92fdf255a382d89c31a04df028db38259fa66b885d4894a91e550a2b122c2e3"
 metafile = true
 
 [[files]]
@@ -633,6 +683,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "8807b586464bcd9073dfc1a60b541e2723119306aa5178ff556db94affaaa599"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity.pw.toml"
+hash = "631681d3b1ce347884a36d2b0d8a0bd7f0a73c5547edea78fbe8bea513d9f97b"
 metafile = true
 
 [[files]]
