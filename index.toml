@@ -411,6 +411,11 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
+file = "mods/minetweaker-recipemaker.pw.toml"
+hash = "ec44fb5b7a7f89925e8473869a201fa113ff8b705934cd5ca62aeb2587226eac"
+metafile = true
+
+[[files]]
 file = "mods/mixinbooter.pw.toml"
 hash = "182bf5f9e9228c584a6bad4f143eb1eec03e4bcc27e94749cd4b2d9b041ed99b"
 metafile = true
