@@ -76,21 +76,6 @@ hash = "8c1e8d31d2eaa1652818ba73f210863f699b8268795ebf239b431b9895b70058"
 metafile = true
 
 [[files]]
-file = "mods/ae-additions.pw.toml"
-hash = "e5a33f77b9c63d91b96dac0a0cb2a64b911fe809de15b848f94c8ab96baf7eb1"
-metafile = true
-
-[[files]]
-file = "mods/ae2-stuff.pw.toml"
-hash = "b63661a7418b4a4959436998638144604bd4dabacaf613b05b9b30a73a25074c"
-metafile = true
-
-[[files]]
-file = "mods/ae2wtlib.pw.toml"
-hash = "ce050f4ae82f3d6df53b775951c048d313a8b35eaf87e2125d42c8ee6bdbd5f8"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
 metafile = true
@@ -108,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b88a88ada39f46c4f2f8cf947e6d02bcb7e1d13ec65d2ae342a64a4f9898bd35"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
 metafile = true
 
 [[files]]
@@ -256,13 +236,13 @@ hash = "2310d467f586dc58c48f9aea43e74e4876015f75afdd40d13395d803849b6c49"
 metafile = true
 
 [[files]]
-file = "mods/endercore.pw.toml"
-hash = "e5a54454a7326bf485e7eb88a7fc001b931e00ad48842d99a266d204d0e29dc0"
+file = "mods/ender-io-rs-conduits.pw.toml"
+hash = "f38d0e50510fc6d604bdb929764ea94d4113aa27cd447ee0ca8b03ea7dc4e395"
 metafile = true
 
 [[files]]
-file = "mods/enderio-ae2-conduits.pw.toml"
-hash = "28aa28b76e908396610681c913213e0aee5f0aee2de4f9f77023fa1f6e25fab9"
+file = "mods/endercore.pw.toml"
+hash = "e5a54454a7326bf485e7eb88a7fc001b931e00ad48842d99a266d204d0e29dc0"
 metafile = true
 
 [[files]]
@@ -556,13 +536,38 @@ hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
+metafile = true
+
+[[files]]
+file = "mods/rebornstorage.pw.toml"
+hash = "58bc415d549e7d6848f874d7063d9cb1951cf2e41e9b4fec5e321566ff98fbeb"
+metafile = true
+
+[[files]]
 file = "mods/red-core.pw.toml"
 hash = "61e97e8f79b9a9cb28e118275ece40ac1c14048aba7b153a2b99f14091208613"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
+metafile = true
+
+[[files]]
 file = "mods/roost.pw.toml"
 hash = "705459b0f775f7e840b5910576ff959c3b3991b5a20de8913160ee1bc021c9ec"
+metafile = true
+
+[[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "295210450343d7fc221d07e5347517e3d0ef6a48df1a63ee402cc39a9110d4a2"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitewireless.pw.toml"
+hash = "49366e14caa36db1cb88e26d048f14055df7a35f52aa873875f5b1aacbef2f7e"
 metafile = true
 
 [[files]]
