@@ -186,11 +186,6 @@ hash = "ba3c7e8e07954fe95f568d934a014a752ef05b0230cbf285c2c104b03b4044ca"
 metafile = true
 
 [[files]]
-file = "mods/caves-and-cliffs.pw.toml"
-hash = "4f0810c42620d902de37b96e5e5324d941c264221cbbd4f9ff5a5dbfec8a4e51"
-metafile = true
-
-[[files]]
 file = "mods/chameleon.pw.toml"
 hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
 metafile = true
