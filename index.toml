@@ -401,6 +401,11 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
+metafile = true
+
+[[files]]
 file = "mods/minetweaker-recipemaker.pw.toml"
 hash = "ec44fb5b7a7f89925e8473869a201fa113ff8b705934cd5ca62aeb2587226eac"
 metafile = true
@@ -553,6 +558,16 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "f89cd58ca1fbbc85ecf3648bec2af4a3bc395b9e312c3c158ae5e1411da71d9b"
+metafile = true
+
+[[files]]
+file = "mods/rftools.pw.toml"
+hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
 metafile = true
 
 [[files]]
